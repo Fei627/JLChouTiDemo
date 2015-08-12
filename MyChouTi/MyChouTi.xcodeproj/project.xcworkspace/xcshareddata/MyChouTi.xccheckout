@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>663E00DB-C4B9-4070-9A94-7E0E6F9D6B8B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyChouTi</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>99FE85E67970D4EAC276B07397BF4AFE3CAEDEEA</key>
+		<string>https://github.com/Fei627/JLChouTiDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MyChouTi/MyChouTi.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>99FE85E67970D4EAC276B07397BF4AFE3CAEDEEA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Fei627/JLChouTiDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>99FE85E67970D4EAC276B07397BF4AFE3CAEDEEA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>99FE85E67970D4EAC276B07397BF4AFE3CAEDEEA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ChouTi_GitHub</string>
+		</dict>
+	</array>
+</dict>
+</plist>
